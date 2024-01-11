@@ -44,4 +44,10 @@
    ┗ 📜key
 ```
 
-###
+### 参考指南
+
+* [DayZ:Modding Basics - Bohemia Interactive Community (bistudio.com)](https://community.bistudio.com/wiki/DayZ:Modding_Basics)
+* [Beginner’s Guide to DayZ Mods development | by Janusz Kamieński | Medium](https://medium.com/@jkamienski/beginners-guide-to-dayz-mods-development-de3055a10d31)
+* [Dayz: Enforce script essentials (zeroy.com)](https://dayzexplorer.zeroy.com/group___enforce.html)
+* [Open Mod Code Bases | DayZ Modding Wiki](https://dayzmodding.dev/en/Mod-Code-Bases)
+* [DayZ:Enforce Script Syntax - Bohemia Interactive Community (bistudio.com)](https://community.bistudio.com/wiki/DayZ:Enforce_Script_Syntax)
